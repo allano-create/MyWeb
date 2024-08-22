@@ -6,9 +6,16 @@
 }
 body{
 
-    background-image: url(./assets/vecteezy_ship-on-sea-during-sunset_1752040.jpeg);
+    background-image: url(./assets/avecteezy_ship-on-sea-during-suns.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
 }
+
+/* video{
+    
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+} */
